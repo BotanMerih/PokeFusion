@@ -1,0 +1,8 @@
+{
+    "gui.fusions.title": "Pokémon Birleştirme",
+    "commands.fusions.success": "Birleştirme başarılı!",
+    "commands.fusions.failure": "Birleştirme başarısız. Lütfen koşulları kontrol edin.",
+    "commands.fusions.cooldown": "Lütfen tekrar birleştirme yapmadan önce %s saniye bekleyin.",
+    "commands.fusions.not_enough_args": "Yetersiz argüman. Kullanım: /fusion <slot1> <slot2>",
+    "itemGroup.fusions": "Fusions"
+} 

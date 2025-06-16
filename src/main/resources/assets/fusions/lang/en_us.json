@@ -1,0 +1,8 @@
+{
+    "gui.fusions.title": "Pokémon Fusion",
+    "commands.fusions.success": "Fusion successful!",
+    "commands.fusions.failure": "Fusion failed. Please check the conditions.",
+    "commands.fusions.cooldown": "Please wait %s seconds before fusing again.",
+    "commands.fusions.not_enough_args": "Not enough arguments. Usage: /fusion <slot1> <slot2>",
+    "itemGroup.fusions": "Fusions"
+} 
